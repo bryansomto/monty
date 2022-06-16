@@ -3,7 +3,7 @@
 
 ## Description
 
-Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python!). It relies on a unique stack, with specific instructions to manipulate it. By convention, the files containing Monty bytecodes have the .m extension. The goal of this project is to create an interpreter for Monty ByteCodes files.
+Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python!). It relies on a unique stack, with specific instructions to manipulate it. By convention, the files containing Monty bytecodes have the .m extension. The main goal of this project is to create an interpreter for Monty ByteCodes files.
 
 ***
 
